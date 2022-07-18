@@ -12,3 +12,5 @@ For the program to run properly, enable 2-Step Verification and generate Applica
 5. From the Select app drop down choose Other (Custom name) and put a name e.g. nodemailer
 6. A modal dialog will appear with the password. 
 7. Paste the email address and password appropriately in the .env file
+<img width="1280" alt="Screenshot 2022-07-18 at 18 19 38" src="https://user-images.githubusercontent.com/63821349/179567417-320cbd9e-a472-41b7-b0f2-3048aad5a8c1.png">
+<img width="1280" alt="Screenshot 2022-07-18 at 18 20 07" src="https://user-images.githubusercontent.com/63821349/179567459-0d0fe4ca-8193-4ff4-8a98-bcc55fe4151b.png">
